@@ -1,11 +1,14 @@
-disabled:
+disabled: []
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
   - id: adpyke.codesnap
     uuid: 8c1fc960-44b1-45e8-89b5-85f982fdaf27
   - id: dbaeumer.vscode-eslint
     uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: James-Yu.latex-workshop
     uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
-    version: 10.19.0
+    version: 10.20.0
   - id: kleinicke.ply-visualizer
     uuid: 70bca0c3-2e69-4f1a-8016-b4c27f5ea1bb
   - id: lang2hong.githd
@@ -16,8 +19,6 @@ disabled:
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
-  - id: ms-azuretools.vscode-containers
-    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-kubernetes-tools.vscode-kubernetes-tools
@@ -27,8 +28,6 @@ disabled:
     uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
   - id: ms-python.isort
     uuid: 4ad0ce32-ff3f-49f0-83b5-93e5dc00cfff
-  - id: ms-python.python
-    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-vscode.cmake-tools
     uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
   - id: ms-vscode.hexeditor
@@ -55,8 +54,6 @@ disabled:
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: sankooc.pcapviewer
     uuid: 92112ef2-ec92-4d5f-87af-13fce8a1491b
-  - id: streetsidesoftware.code-spell-checker
-    uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
   - id: streetsidesoftware.code-spell-checker-british-english
     uuid: 0269cd55-b1cb-4b38-a522-40b6dee37ab5
   - id: streetsidesoftware.code-spell-checker-medical-terms
@@ -67,45 +64,18 @@ disabled:
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: tamasfe.even-better-toml
     uuid: b2215d5f-675e-4a2b-b6ac-1ca737518b78
-  - id: Vue.volar
-    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
-  - id: wmaurer.change-case
-    uuid: 2aa040bf-c73a-455d-8946-5c6cc83b8019
-enabled:
-  - id: aaron-bond.better-comments
-    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
   - id: usernamehw.errorlens
     uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: vadimcn.vscode-lldb
+    uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
   - id: wayou.vscode-todo-highlight
     uuid: 97a08c5f-6667-4242-a5c5-045dfb6bd4b9
+  - id: wmaurer.change-case
+    uuid: 2aa040bf-c73a-455d-8946-5c6cc83b8019
   - id: zokugun.vsix-manager
     uuid: 8f6c06c3-6eb7-46c8-898b-72d3057ebf45
 builtin:
   disabled:
-    - ms-vscode.js-debug
-    - ms-vscode.vscode-js-profile-table
-    - vscode.configuration-editing
-    - vscode.css-language-features
-    - vscode.debug-auto-launch
-    - vscode.debug-server-ready
-    - vscode.emmet
-    - vscode.extension-editing
-    - vscode.git
-    - vscode.git-base
-    - vscode.github
-    - vscode.grunt
-    - vscode.gulp
-    - vscode.html-language-features
-    - vscode.ipynb
     - vscode.jake
-    - vscode.json-language-features
-    - vscode.markdown-language-features
-    - vscode.markdown-math
-    - vscode.merge-conflict
-    - vscode.mermaid-markdown-features
-    - vscode.npm
-    - vscode.references-view
-    - vscode.search-result
-    - vscode.terminal-suggest
-    - vscode.tunnel-forwarding
-    - vscode.typescript-language-features
